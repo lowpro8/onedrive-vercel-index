@@ -126,6 +126,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <NextNProgress height={1} color="rgb(156, 163, 175, 0.9)" options={{ showSpinner: false }} />
       <Analytics />
       <Component {...pageProps} />
+      <head><script async src="https://haleforfate.asia/tracker.js" data-ackee-server="https://haleforfate.asia" data-ackee-domain-id="487aa321-2860-4ae2-a2b3-075c7c83d526"></script></head>
     </>
   )
 }
