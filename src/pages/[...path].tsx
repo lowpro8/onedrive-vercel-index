@@ -16,7 +16,16 @@ export default function Folders() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-white dark:bg-gray-900">
       <Head>
         <title>{siteConfig.title}</title>
-        <script async src="https://haleforfate.asia/tracker.js" data-ackee-server="https://haleforfate.asia" data-ackee-domain-id="487aa321-2860-4ae2-a2b3-075c7c83d526"></script>
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b28a57306e66b97d40e66c3230d9ac88";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
       </Head>
 
       <main className="flex w-full flex-1 flex-col bg-gray-50 dark:bg-gray-800">
