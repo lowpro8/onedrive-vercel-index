@@ -16,16 +16,6 @@ export default function Folders() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-white dark:bg-gray-900">
       <Head>
         <title>{siteConfig.title}</title>
-        <script>
-var _hmt = _hmt || [];
-(function() )
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?b28a57306e66b97d40e66c3230d9ac88";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-&rbrace;();
-</script>
-
       </Head>
 
       <main className="flex w-full flex-1 flex-col bg-gray-50 dark:bg-gray-800">
