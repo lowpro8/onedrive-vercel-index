@@ -56,8 +56,7 @@ module.exports = {
   links: [
     {
       name: 'Free',
-      link: 'https://bluare-my.sharepoint.com/:f:/g/personal/tutuo_bluare_onmicrosoft_com/EjqmSPCbtdhDrcpANdYH2o0BU_6ntiRJrxiSnIZ24p_qdw?e=c7QaGZ
-',
+      link: 'https://bluare-my.sharepoint.com/:f:/g/personal/tutuo_bluare_onmicrosoft_com/EjqmSPCbtdhDrcpANdYH2o0BU_6ntiRJrxiSnIZ24p_qdw?e=c7QaGZ',
     },
   ],
 
