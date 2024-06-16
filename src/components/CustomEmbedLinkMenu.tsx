@@ -83,14 +83,7 @@ export default function CustomEmbedLinkMenu({
               <Dialog.Description as="p" className="py-2 opacity-80">
                 <>
                   {t('Change the raw file direct link to a URL ending with the extension of the file.')}{' '}
-                  <a
-                    href="https://ovi.swo.moe/docs/features/customise-direct-link"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-blue-400 underline"
-                  >
-                    {t('What is this?')}
-                  </a>
+                 
                 </>
               </Dialog.Description>
 
