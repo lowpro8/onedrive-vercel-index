@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '欲买桂花同载酒,<a href="https://bluare-my.sharepoint.com/:f:/g/personal/tutuo_bluare_onmicrosoft_com/EjqmSPCbtdhDrcpANdYH2o0BU_6ntiRJrxiSnIZ24p_qdw?e=c7QaGZ" target="_blank" rel="noopener noreferrer">终不似</a>,少年游.',
+    '此情可待成追忆,<a href="https://bluare-my.sharepoint.com/:f:/g/personal/tutuo_bluare_onmicrosoft_com/EjqmSPCbtdhDrcpANdYH2o0BU_6ntiRJrxiSnIZ24p_qdw?e=c7QaGZ" target="_blank" rel="noopener noreferrer">只是</a>当时已惘然.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -48,7 +48,7 @@ module.exports = {
                    ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:tutuo596@outlook.com',
+  email: 'mailto:others@haleforyou.asia',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
