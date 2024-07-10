@@ -45,6 +45,7 @@ module.exports = {
   protectedRoutes:[ 
             '/Involving secrets',
                   '/Download',
+                 '/Work',
                    ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
