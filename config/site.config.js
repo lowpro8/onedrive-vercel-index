@@ -46,6 +46,17 @@ module.exports = {
             '/Involving secrets',
                   '/Download',
                  '/Work',
+                 'Gallery/0CFF',
+                 'Gallery/1F75/',
+                'Gallery/004E',
+              'Gallery/4D51',
+             'Gallery/8D51',
+                  'Gallery/BD54',
+              'Gallery/BE96',
+            'Gallery/C189',
+                'Gallery/D98F',
+            'Gallery/F876',
+           'Gallery/FD54',
                    ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
