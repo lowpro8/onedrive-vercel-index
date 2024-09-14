@@ -27,6 +27,7 @@ const FourOhFour: React.FC<{ errorMsg: string }> = ({ errorMsg }) => {
             <a
               className="text-blue-600 hover:text-blue-700 hover:underline"
               target="_blank"
+              href="https://github.com/spencerwooo/onedrive-vercel-index/discussions"
               rel="noopener noreferrer"
             >
               onedrive-vercel-index discussions
